@@ -1,0 +1,16 @@
+{
+  "name": "btool",
+  "version": "0.0.1",
+  "description": "WorkToolByAjzuk",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "devwatch": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajzuk#1337",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
